@@ -1,0 +1,6 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:cl.ravenhill////PointingToDeclaration/lib/cl.ravenhill/index.html
+$dokka.location:cl.ravenhill//echo/#kotlin.String/PointingToDeclaration/lib/cl.ravenhill/echo.html
+cl.ravenhill
+
